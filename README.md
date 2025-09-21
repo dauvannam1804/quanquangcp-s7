@@ -10,29 +10,37 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 ## 📌 Skill Badges (5, including the mandatory **Prompt Design in Vertex AI**)
 
 1. **Prompt Design in Vertex AI** ✅ *(mandatory)*  
-   👉 Covers the fundamentals of prompt design, a foundation for building AI pipelines.  
+   👉 [Course link](https://www.cloudskillsboost.google/paths/118/course_templates/976)  
+   👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Prompt%20Design%20in%20Vertex%20AI)
 
 2. **Build and Deploy Machine Learning Solutions on Vertex AI**  
-   👉 Core MLOps skills: training and deploying ML models on Vertex AI.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/609)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/ml-deploy-vertex-ai)
 
 3. **Prepare Data for ML APIs on Google Cloud**  
-   👉 Learn how to preprocess and standardize data before feeding it into ML pipelines.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/530)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/prepare-data-ml-apis)
 
 4. **Use Machine Learning APIs on Google Cloud**  
-   👉 Integrate ML APIs into workflows and understand production-ready usage.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/524)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/use-ml-apis)
 
 5. **Implement Multimodal Vector Search with BigQuery**  
-   👉 Focus on vector search infrastructure, crucial for GenAI + MLOps (RAG integration).  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1200)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/multimodal-vector-search)
 
 ---
 
 ## 📌 Regular Badges (3 recommended)
 
 6. **Advanced ML: ML Infrastructure**  
-   👉 Core MLOps knowledge: scaling, ML infrastructure, distributed training pipelines.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1126)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/advanced-ml-infra)
 
 7. **Machine Learning in the Enterprise**  
-   👉 Enterprise-level MLOps: governance, monitoring, and scaling ML systems.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/879)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/ml-enterprise)
 
 8. **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**  
-   👉 Foundational knowledge of compute, storage, and data pipelines for MLOps.  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1168)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/foundations-data-ml-ai)

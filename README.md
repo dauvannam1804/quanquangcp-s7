@@ -47,9 +47,13 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 
 
    Build Real World AI Applications with Gemini and Imagen
+   
    Build and Deploy Machine Learning Solutions on Vertex AI còn 1 lab
+   
    Explore Generative AI with the Vertex AI Gemini API
+   
    Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+   
    The Basics of Google Cloud Compute
    
 

@@ -15,19 +15,20 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 
 2. **Build and Deploy Machine Learning Solutions on Vertex AI**  
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/609)  
-   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/ml-deploy-vertex-ai)
+   👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI)
 
-3. **Prepare Data for ML APIs on Google Cloud**  
-   👉 [Course link](https://www.cloudskillsboost.google/course_templates/530)  
-   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/prepare-data-ml-apis)
+3. **Build Real World AI Applications with Gemini and Imagen**  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1076)  
+   👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen)
 
-4. **Use Machine Learning APIs on Google Cloud**  
-   👉 [Course link](https://www.cloudskillsboost.google/course_templates/524)  
+4. **Explore Generative AI with the Vertex AI Gemini API**  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/959)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/use-ml-apis)
 
-5. **Implement Multimodal Vector Search with BigQuery**  
+5. **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG**  
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1200)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/multimodal-vector-search)
+
 
 ---
 
@@ -47,9 +48,7 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 
 
    Build Real World AI Applications with Gemini and Imagen
-   
-   Build and Deploy Machine Learning Solutions on Vertex AI còn 1 lab
-   
+      
    Explore Generative AI with the Vertex AI Gemini API
    
    Inspect Rich Documents with Gemini Multimodality and Multimodal RAG

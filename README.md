@@ -44,3 +44,14 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 8. **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**  
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1168)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/foundations-data-ml-ai)
+
+
+   Build Real World AI Applications with Gemini and Imagen
+   Build and Deploy Machine Learning Solutions on Vertex AI còn 1 lab
+   Explore Generative AI with the Vertex AI Gemini API
+   Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+   The Basics of Google Cloud Compute
+   
+
+
+

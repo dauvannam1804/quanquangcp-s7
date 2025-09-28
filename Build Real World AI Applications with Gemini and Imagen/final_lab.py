@@ -69,3 +69,6 @@ if __name__ == "__main__":
         project_id=PROJECT_ID,
         location=LOCATION,
     )
+
+
+# /usr/bin/python3 /final_lab.py 

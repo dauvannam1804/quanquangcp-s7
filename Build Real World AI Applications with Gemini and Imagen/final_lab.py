@@ -1,6 +1,6 @@
 import vertexai
 from vertexai.preview.vision_models import ImageGenerationModel
-from vertexai.generative_models import GenerativeModel, Part
+from vertexai.generative_models import GenerativeModel, Part, Image
 
 # ======================
 # Task 1
@@ -32,8 +32,9 @@ def analyze_bouquet_image(image_path: str, project_id: str, location: str):
 
     model = GenerativeModel("gemini-2.0-flash-001")
 
-    # Đọc file ảnh và gói thành input multimodal
-    image_part = Part.from_image(image_path)
+    # Load file ảnh và gói thành input multimodal
+    image = Image.load_from_file(image_path)
+    image_part = Part.from_image(image)
 
     # Streaming output
     responses = model.generate_content(
@@ -51,8 +52,8 @@ def analyze_bouquet_image(image_path: str, project_id: str, location: str):
 # Run Challenge Lab
 # ======================
 if __name__ == "__main__":
-    PROJECT_ID = "qwiklabs-gcp-00-af3dc587435b"   # thay bằng Project ID trong lab
-    LOCATION = "europe-west1"              # hoặc region mà lab chỉ định
+    PROJECT_ID = "qwiklabs-gcp-xxxxxxx"   # thay bằng Project ID trong lab
+    LOCATION = "us-central1"              # hoặc region mà lab chỉ định
     OUTPUT_FILE = "bouquet.jpeg"
 
     # Task 1
@@ -69,6 +70,5 @@ if __name__ == "__main__":
         project_id=PROJECT_ID,
         location=LOCATION,
     )
-
 
 # /usr/bin/python3 /final_lab.py 

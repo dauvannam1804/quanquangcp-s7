@@ -17,11 +17,11 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/609)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI)
 
-3. **Build Real World AI Applications with Gemini and Imagen**  
+3. **Build Real World AI Applications with Gemini and Imagen** ✅   
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1076)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen)
 
-4. **Explore Generative AI with the Vertex AI Gemini API**  
+4. **Explore Generative AI with the Vertex AI Gemini API**  (cannot attend?)   
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/959)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/use-ml-apis)
 
@@ -29,7 +29,9 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1200)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/multimodal-vector-search)
 
-
+6. **The Basics of Google Cloud Compute**  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/754)  
+   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/multimodal-vector-search)
 ---
 
 ## 📌 Regular Badges (3 recommended)

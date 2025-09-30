@@ -23,7 +23,7 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 
 4. **Explore Generative AI with the Vertex AI Gemini API**  ✅   
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/959)  
-   👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/use-ml-apis)
+   👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Explore%20Generative%20AI%20with%20the%20Gemini%20API%20in%20Vertex%20AI)
 
 5. **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG**  
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1200)  

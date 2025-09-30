@@ -13,7 +13,7 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/paths/118/course_templates/976)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Prompt%20Design%20in%20Vertex%20AI)
 
-2. **Build and Deploy Machine Learning Solutions on Vertex AI**  
+2. **Build and Deploy Machine Learning Solutions on Vertex AI**  wait for notify
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/609)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI)
 
@@ -21,7 +21,7 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1076)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Build%20Real%20World%20AI%20Applications%20with%20Gemini%20and%20Imagen)
 
-4. **Explore Generative AI with the Vertex AI Gemini API**  (cannot attend?)   
+4. **Explore Generative AI with the Vertex AI Gemini API**  ✅   
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/959)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/use-ml-apis)
 

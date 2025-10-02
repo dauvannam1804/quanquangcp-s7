@@ -40,20 +40,14 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/1126)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/advanced-ml-infra)
 
-7. **Machine Learning in the Enterprise**  
-   👉 [Course link](https://www.cloudskillsboost.google/course_templates/879)  
+7. **Workspace: Add-ons**  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/781)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/ml-enterprise)
 
-8. **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**  
-   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1168)  
+8. **Intermediate ML: TensorFlow on Google Cloud**  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/738)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/foundations-data-ml-ai)
 
-
-   Build Real World AI Applications with Gemini and Imagen
-      
-   Explore Generative AI with the Vertex AI Gemini API
-   
-   Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
    
    The Basics of Google Cloud Compute
    

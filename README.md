@@ -37,7 +37,7 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
 ## 📌 Regular Badges (3 recommended)
 
 6. **Advanced ML: ML Infrastructure**  
-   👉 [Course link](https://www.cloudskillsboost.google/course_templates/1126)  
+   👉 [Course link](https://www.cloudskillsboost.google/course_templates/666)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/advanced-ml-infra)
 
 7. **Workspace: Add-ons**  

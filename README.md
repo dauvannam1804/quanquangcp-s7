@@ -40,11 +40,11 @@ This learning path is part of **Google Cloud AI Study Jam: #QuanQuanGCP Season 7
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/666)  
    👉 [My Lab in GitHub](https://github.com/dauvannam1804/quanquangcp-s7/tree/main/Advanced%20ML%3A%20ML%20Infrastructure)
 
-7. **Workspace: Add-ons**  
+7. **Workspace: Add-ons**  ✅   
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/781)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/ml-enterprise)
 
-8. **Intermediate ML: TensorFlow on Google Cloud**  
+8. **Intermediate ML: TensorFlow on Google Cloud**  ✅     
    👉 [Course link](https://www.cloudskillsboost.google/course_templates/738)  
    👉 [My Lab in GitHub](https://github.com/your-username/your-repo-link/tree/main/foundations-data-ml-ai)
 
